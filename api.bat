@@ -5,4 +5,4 @@ pytest
 
 
 
-PYTHONPATH=C:\Users\cpreciado\Python\Python36\python.exe
+
