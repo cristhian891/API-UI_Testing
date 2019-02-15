@@ -1,5 +1,3 @@
-#!/usr/bin/env bash 
-cd ./api_tests/Tests
-python -m pytest
-
-PYTHONPATH=.\venv\Scripts\python.exe
+#!/bin/sh
+cd c:\Users\cpreciado\PycharmProjects\ComplyAdvantage\UI_Tests\Tests\Functional_Tests
+pytest
