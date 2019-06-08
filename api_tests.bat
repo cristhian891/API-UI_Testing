@@ -1,4 +1,5 @@
 #!/bin/sh
 set python C:\Users\crist\AppData\Local\Programs\Python\Python37
-cd C:\Users\crist\PycharmProjects\API-UI_Testing-master\api_tests\Tests
+cd api_tests
+cd Tests
 python -m pytest
