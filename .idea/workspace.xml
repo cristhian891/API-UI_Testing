@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec11adbe-37a0-4698-9db1-2b6624cdd132" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_validate_data_type_for_json_content.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_add_user_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/api/Rest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_risk_number_limits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_get_last_info_from_user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/.dockerignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_valid_json_response.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_status_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/assets/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_validate_get_info_by_id.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\cpreciado\PycharmProjects\ComplyAdvantage\UI_Tests</dir>
+      <dir>C:\Users\cpreciado\PycharmProjects\ComplyAdvantage\UI_Tests\Tests\Functional_Tests</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/API_Tests/RestClient/Rest_API.py" />
+        <option value="$PROJECT_DIR$/API_Tests/Tests/StatusCode.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/PageElements/Main_Page_elements.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Utils/Init.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Utils/config.json" />
+        <option value="$PROJECT_DIR$/UI_Tests/Locators/Main_Page_locators.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/PageObject/Page_form.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/__init__.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/__init__.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/Locators/Main_Page_locators.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/PageObject/Page_form.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_validate_valid _url_field.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/RestClient/Rest_API.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/restClient/test_valid_json_response.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/restClient/test_get_last_info_from_user.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/restClient/test_validate_get_info_by_id.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_add_politician.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_mandatory_fields.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/restClient/test_validate_data_type_for_json_content.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/restClient/test_risk_number_limits.py" />
+        <option value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_access_application_form.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/restClient/Rest_API.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/__init__.py" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/Dockerfile" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/.dockerignore" />
+        <option value="$PROJECT_DIR$/api_tests/.dockerignore" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/test_risk_number_limits.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/test_status_code.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/test_validate_data_type_for_json_content.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/test_validate_get_info_by_id.py" />
+        <option value="$PROJECT_DIR$/api_tests/Dockerfile" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/api/Rest.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/test_add_user_db.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/test_valid_json_response.py" />
+        <option value="$PROJECT_DIR$/api_tests/Tests/test_get_last_info_from_user.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="y" value="-1095" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="api_tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="api_tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="api_tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name=".pytest_cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="api_tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Functional_Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Functional_Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Functional_Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Locators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API-UI_Testing-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API-UI_Testing-master" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Functional_Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cristhian.hernandez\Documents\API-UI_Testing-master\api_tests" />
+      <recent name="C:\Users\cristhian.hernandez\Documents\API-UI_Testing-master\api_tests\Tests" />
+      <recent name="C:\Users\cristhian.hernandez\Documents\API-UI_Testing-master" />
+      <recent name="C:\Users\cristhian.hernandez\Documents\API-UI_Testing-master\api_tests\Tests\restClient" />
+      <recent name="C:\Users\cpreciado\PycharmProjects\ComplyAdvantage\api_tests\Tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_access_application_form">
+    <configuration name="test_access_application_form" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ComplyAdvantage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_access_application_form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_status_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ComplyAdvantage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_tests/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_tests/Tests/test_status_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Functional_Tests.test_mandatory_fields.test_add_politician" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ComplyAdvantage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI_Tests/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Functional_Tests.test_mandatory_fields.test_add_politician&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_access_application_form" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ComplyAdvantage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_access_application_form&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Functional_Tests" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="ComplyAdvantage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_status_code.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ComplyAdvantage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/api_tests/Tests/test_status_code.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_access_application_form" />
+      <item itemvalue="Python.test_status_code" />
+      <item itemvalue="Python tests.pytest in Functional_Tests" />
+      <item itemvalue="Python tests.pytest for test_access_application_form" />
+      <item itemvalue="Python tests.pytest for Functional_Tests.test_mandatory_fields.test_add_politician" />
+      <item itemvalue="Python tests.pytest in test_status_code.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_access_application_form" />
+        <item itemvalue="Python.test_status_code" />
+        <item itemvalue="Python tests.pytest in test_status_code.py" />
+        <item itemvalue="Python tests.pytest for Functional_Tests.test_mandatory_fields.test_add_politician" />
+        <item itemvalue="Python tests.pytest for test_access_application_form" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec11adbe-37a0-4698-9db1-2b6624cdd132" name="Default Changelist" comment="" />
+      <created>1549990221165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549990221165</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_Functional_Tests - 2019.02.12 at 23h 49m 11s.xml">
+      <configuration name="pytest in Functional_Tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_access_application_form - 2019.02.12 at 23h 49m 26s.xml">
+      <configuration name="pytest for test_access_application_form" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_access_application_form - 2019.02.12 at 23h 54m 48s.xml">
+      <configuration name="pytest for test_access_application_form" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_access_application_form - 2019.02.13 at 00h 49m 02s.xml">
+      <configuration name="pytest for test_access_application_form" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Functional_Tests_test_mandatory_fields_test_add_politician - 2019.02.13 at 09h 16m 56s.xml">
+      <configuration name="pytest for Functional_Tests.test_mandatory_fields.test_add_politician" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Functional_Tests_test_mandatory_fields_test_mandatory_fields - 2019.02.13 at 09h 20m 53s.xml">
+      <configuration name="pytest for Functional_Tests.test_mandatory_fields.test_mandatory_fields" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_C__Users_cpreciado_PycharmProjects_ComplyAdvantage_api_tests_RestClient_test_status_code_py - 2019.02.13 at 12h 49m 42s.xml">
+      <configuration name="pytest in C:/Users/cpreciado/PycharmProjects/ComplyAdvantage/api_tests/RestClient/test_status_code.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_C__Users_cpreciado_PycharmProjects_ComplyAdvantage_api_tests_RestClient_test_status_code_py - 2019.02.13 at 12h 50m 11s.xml">
+      <configuration name="pytest in C:/Users/cpreciado/PycharmProjects/ComplyAdvantage/api_tests/RestClient/test_status_code.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_C__Users_cpreciado_PycharmProjects_ComplyAdvantage_api_tests_Tests_RestClient_test_status_code_py - 2019.02.13 at 12h 50m 34s.xml">
+      <configuration name="pytest in C:/Users/cpreciado/PycharmProjects/ComplyAdvantage/api_tests/Tests/RestClient/test_status_code.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_status_code_py - 2019.02.13 at 12h 51m 13s.xml">
+      <configuration name="pytest in test_status_code.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="948" y="-1095" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19336143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20038351" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32932332" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21374045" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.22857143" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UI_Tests/PageElements/Main_Page_elements.py" />
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Utils/Init.py" />
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Utils/config.json" />
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/Locators/Main_Page_locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/PageObject/Page_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="85" column="32" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_mandatory_fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1423">
+          <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_validate_valid _url_field.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="82" column="37" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/report.html" />
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_access_application_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_Tests/Tests/Functional_Tests/test_add_politician.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_validate_get_info_by_id.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/.dockerignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/api/Rest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_risk_number_limits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_status_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_valid_json_response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_validate_data_type_for_json_content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_add_user_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_tests/Tests/test_get_last_info_from_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
